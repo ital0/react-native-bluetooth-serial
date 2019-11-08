@@ -7,7 +7,7 @@
 //
 
 #import <React/RCTBridgeModule.h>
-#import <React/RCTEventDispatcher.h>
+//#import <React/RCTEventDispatcher.h>
 
 //#import "RCTEventEmitter.h" Wasnt working properly yet, events were fired but listeneres not called
 #import "BLE.h"
